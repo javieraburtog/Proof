@@ -20,7 +20,10 @@ public class App {
 
         System.out.println("The monthly payment is: " + monthlyPayment);
 
-        System.out.println("The interest rata  JAVIER " )
+        System.out.println("The interest rate.  Name:  JAVIER " );
+
+        System.out.println("This is a proof to GitHub" );
+
     }
 
 
