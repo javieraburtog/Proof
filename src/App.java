@@ -19,6 +19,8 @@ public class App {
         double monthlyPayment = loanAmount * monthlyInterest * Math.pow((1 + monthlyInterest), numYears) / (Math.pow((1 + monthlyInterest), numYears) - 1);
 
         System.out.println("The monthly payment is: " + monthlyPayment);
+
+        System.out.println("Javier, June 2024");
     }
 
 
