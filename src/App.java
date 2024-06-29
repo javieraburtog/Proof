@@ -21,6 +21,9 @@ public class App {
         System.out.println("The monthly payment is: " + monthlyPayment);
 
         System.out.println("Javier, June 2024");
+
+        System.out.println("Javier, June 2024 , 11111");
+
     }
 
 
