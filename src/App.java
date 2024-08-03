@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");)
 
         Scanner scanner = new Scanner(System.in);
 
@@ -23,6 +23,8 @@ public class App {
         System.out.println("Javier, June 2024");
 
         System.out.println("Javier, June 2024 , 11111");
+        System.out.println("Javier, August 2024");
+
 
     }
 
